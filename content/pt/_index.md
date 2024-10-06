@@ -49,11 +49,22 @@ sections:
           **A tradução do site para o Português ainda está a ser finalizada**
           {{% /callout %}}
 
-          Sou psicólogo filiado à British Psychological Society (CPsychol), Australian Psychological Society (MAPS) e Chartered Scientist           (CSci) reconhecido pelo Science Council. Atualmente trabalho na School of Psychological Sciences na Birkbeck, University of               London (Reino Unido). Há mais de dez anos investigo comportamentos aditivos emergentes, como a perturbação do jogo                        electrónico, a dependência das redes sociais, e a perturbação do jogo de azar.
+          Sou psicólogo filiado à British Psychological Society (CPsychol), Australian Psychological Society (MAPS) e Chartered Scientist 
+          (CSci) reconhecido pelo Science Council. Atualmente trabalho na School of Psychological Sciences na Birkbeck, University of 
+          London (Reino Unido). Há mais de dez anos investigo comportamentos aditivos emergentes, como a perturbação do jogo 
+          electrónico, a dependência das redes sociais, e a perturbação do jogo de azar.
+          {style="text-align: center;"}
           
-          Concluí o meu doutoramento da Nottingham Trent University no Reino Unido e publiquei mais de 100 estudos (ver o meu perfil                **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** para uma lista completa) em várias revistas científicas e           apresentei o meu trabalho de investigação em  várias conferências internacionais. A minha investigação recebeu o prémio Durand            Jacobs Award da McGill University (Canadá) e com o Early Career Research Award da Australian Psychological Society (Austrália)             pelas contribuições à  psicologia dos comportamentos aditivos e para a ciberpsicologia.
+          Concluí o meu doutoramento da Nottingham Trent University no Reino Unido e publiquei mais de 100 estudos (ver o meu perfil 
+          **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** para uma lista completa) em várias revistas científicas e 
+          apresentei o meu trabalho de investigação em  várias conferências internacionais. A minha investigação recebeu o prémio Durand 
+          Jacobs Award da McGill University (Canadá) e com o Early Career Research Award da Australian Psychological Society (Austrália) 
+          pelas contribuições à  psicologia dos comportamentos aditivos e para a ciberpsicologia.
+          {style="text-align: center;"}
 
-            A minha **[Chave Pública PGP](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint é: DE26 2BED FB0D C0ED 97F7             DD95 234E 9809 AEDA EAC8.
+          A minha **[Chave Pública PGP](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint é: DE26 2BED FB0D C0ED 97F7 
+          DD95 234E 9809 AEDA EAC8.
+          {style="text-align: center;"}
           
     design:
       columns: '1'

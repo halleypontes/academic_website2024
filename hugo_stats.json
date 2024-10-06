@@ -8,7 +8,6 @@
       "body",
       "button",
       "circle",
-      "code",
       "defs",
       "div",
       "em",
@@ -607,7 +606,8 @@
       "site-header",
       "social-media-addiction",
       "sun",
-      "top"
+      "top",
+      "welcome"
     ]
   }
 }
