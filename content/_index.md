@@ -48,7 +48,7 @@ sections:
           I am a Chartered Psychologist of the British Psychological Society (CPsychol), Member of the Australian Psychological Society
           (MAPS), and Chartered Scientist (CSci) of the Science Council. I am currently working in the School of Psychological
           Sciences at Birkbeck, University of London (United Kingdom) as a Senior Lecturer where I teach statistics, addiction,
-          and individual differences. For over ten years I have been researching emerging addictive behaviors such as gaming
+          and individual differences. For over ten years I have been researching emerging addictive behaviours such as gaming
           disorder, social media addiction, gambling disorder, and other online addictions.
           I received my PhD from the Nottingham Trent University in the United Kingdom and have published numerous studies (see my 
           **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** profile for a full list) in several scientific 
