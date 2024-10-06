@@ -18,11 +18,11 @@ marketing:
     description: 'Dr. Halley Pontes is a psychologist researching mental health and well-being issues associated with addictive behaviors such as gaming disorder'
     twitter: 'DrHalleyPontes'
   analytics:
-    google_analytics: 'G-XSBXF8X6Q1'
+    google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
-    pirsch: ''
+    pirsch: 'JGmMkHpXSwdliZ3YUNpsonNJRMHBLOSA'
   verification:
     google: ''
     baidu: ''
