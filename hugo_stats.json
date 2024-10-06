@@ -37,7 +37,6 @@
       "p",
       "path",
       "polygon",
-      "pre",
       "radialgradient",
       "script",
       "section",
@@ -555,6 +554,8 @@
     ],
     "ids": [
       "collection-of-personal-data",
+      "cookies-trackers-and-analytics",
+      "cookies-trackers-and-web-analytics",
       "deviconLinux0",
       "deviconLinux1",
       "deviconLinux2",
@@ -584,6 +585,7 @@
       "heading",
       "hide-button",
       "important-notice",
+      "information-collected-for-analytics-purposes",
       "internet-addiction",
       "introduction",
       "moon",
@@ -613,7 +615,10 @@
       "social-media-addiction",
       "sun",
       "top",
+      "use-of-cookies",
       "use-of-cookies-and-tracking",
+      "use-of-cookies-trackers-and-analytics",
+      "use-of-cookies-trackers-and-web-analytics",
       "your-right-to-erasure-right-to-be-forgotten"
     ]
   }

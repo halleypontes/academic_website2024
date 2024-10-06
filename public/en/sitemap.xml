@@ -16,6 +16,10 @@
                 href="http://localhost:4321/"
                 />
   </url><url>
+    <loc>http://localhost:4321/privacy/</loc>
+    <lastmod>2024-10-06T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/tests/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -360,9 +364,6 @@
   </url><url>
     <loc>http://localhost:4321/publication/2019/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/privacy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/pt/post/</loc>
