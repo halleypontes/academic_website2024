@@ -2,10 +2,10 @@
 
 ---
 
-## 📚 About This Repository
+## 📚 About my repository
 
-Welcome to the official repository for our academic website! Here, you will find all the
-resources, documentation, and code necessary to replicate the website.
+Welcome to the new repository of my new academic website! Here, you will find all the
+resources, documentation, and code necessary to replicate the website if you wish.
 
 ## 🌟 The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
