@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/pt/tags/personal/</link>
+      <atom:link href="http://localhost:4321/pt/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-pt</language><lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>Personal</title>
+      <link>http://localhost:4321/pt/tags/personal/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to my new website!</title>
+      <link>http://localhost:4321/pt/post/2022-12-p1/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pt/post/2022-12-p1/</guid>
+      <description>&lt;p&gt;Welcome aboard!&lt;/p&gt;
+&lt;p&gt;I am really excited to release the new version of my website, which was developed using &lt;strong&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I hope we can keep connected and that I have enough time to keep you posted about my work.&lt;/p&gt;
+&lt;p&gt;In the meantime, I wish you all a truly awesome happy new year!&lt;/p&gt;
+&lt;p&gt;Stay tuned and follow me on &lt;strong&gt;&lt;a href=&#34;https://metalhead.club/@DrHalleyPontes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastodon&lt;/a&gt;&lt;/strong&gt; for real-time updates on what&amp;rsquo;s happening!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

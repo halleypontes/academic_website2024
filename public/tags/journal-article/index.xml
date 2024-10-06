@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal Article | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/tags/journal-article/</link>
+      <atom:link href="http://localhost:4321/tags/journal-article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>Journal Article</title>
+      <link>http://localhost:4321/tags/journal-article/</link>
+    </image>
+    
+    <item>
+      <title>Measurement and Conceptualization of Gaming Disorder According to the World Health Organization Framework:the Development of the Gaming Disorder Test</title>
+      <link>http://localhost:4321/publication/2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2021/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previous research on gaming disorder (GD) has highlighted key methodological and conceptual hindrances stemming from the heterogeneity of nomenclature and the use of non-standardized psychometric tools to assess this phenomenon. The recent recognition of GD as an official mental health disorder and behavioral addiction by the World Health Organization (WHO) in the 11th Revision of the International Classification of Diseases (ICD-11) opens up new possibilities to investigate further the psychosocial and mental health implications due to excessive and disordered gaming. However, before further research on GD can be conducted in a reliable way and within a robust cross-cultural context, a valid and reliable standardized psychometric tool to assess the construct as defined by the WHO should be developed. The aim of this study was to develop The Gaming Disorder Test (GDT), a brief four-item measure to assess GD and to further explore its psychometric properties. A sample of 236 Chinese (47% male, mean age 19.22 years, SD = 1.57) and 324 British (49.4% male, mean age 26.74 years, SD = 7.88) gamers was recruited online. Construct validity of the GDT was examined via factorial validity, nomological validity, alongside convergent and discriminant validity. Concurrent validity was also examined using the Internet Gaming Disorder Scale—Short-Form (IGDS9-SF). Finally, reliability indicators involving the Cronbach’s alpha and composite reliability coefficients were estimated. Overall, the results indicated that GDT is best conceptualized within a single-factor structure. Additionally, the four items of the GDT are valid, reliable, and proved to be highly suitable for measuring GD within a cross-cultural context.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

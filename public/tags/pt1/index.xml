@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PT1 | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/tags/pt1/</link>
+      <atom:link href="http://localhost:4321/tags/pt1/index.xml" rel="self" type="application/rss+xml" />
+    <description>PT1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>PT1</title>
+      <link>http://localhost:4321/tags/pt1/</link>
+    </image>
+    
+    <item>
+      <title>PT1</title>
+      <link>http://localhost:4321/pt/post/2023-09-p1/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pt/post/2023-09-p1/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;After a &lt;strong&gt;&lt;a href=&#34;https://esl.com/ggforall/smart-gaming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first successful independent research partnership with ESL Gaming&lt;/a&gt;&lt;/strong&gt; led by Prof. Christian Montag (University of Ulm, Germany) and I where we developed a pioneering social responsibility campaign aimed at understanding and mitigating disordered gaming harms in a large international gaming community, I am pleased to announce that our second research project and partnership with ESL Gaming will soon be launched.&lt;/p&gt;
+&lt;p&gt;The Smart Gaming Project will follow the steps of our first project to allow us to further expand the knowledge we have built in the first project. As a result of the first project, we were able to publish several impactful research studies on various aspects of gaming behaviours in high-quality international journals.&lt;/p&gt;
+&lt;p&gt;Below I will briefly highlight my three favourite studies published out of the first project as they helped us:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1016/j.socscimed.2022.114721&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understand how much time spent on gaming may be problematic in terms of gaming disorder&lt;/a&gt;&lt;/strong&gt;. Specifically, we found that in a sample of 123,262 gamers from 168 countries, disordered gaming was associated with an average of weekly spent time gaming between 34.53 to 40.13 hours - depending on how gaming disorder is assessed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0261380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarify the links between personality and gaming behaviours&lt;/a&gt;&lt;/strong&gt;. In this particular study we analysed data from 50,925 gamers from 150 countries and we found that low conscientiousness and high neuroticism were strongly related to gaming disorder. We also found that personality traits were more strongly associated with gaming disorder than time spent gaming, which means that personality traits are critical to our understanding of disordered gaming.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jpsychires.2023.06.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shed light on the role of functional impairments in gaming disorder&lt;/a&gt;&lt;/strong&gt;. Here, we used an initial sample of 192,260 gamers to analyse the data from those who 1) &lt;em&gt;met the diagnostic criteria for gaming disorder&lt;/em&gt; and 2) &lt;em&gt;that specified one area where gaming has negatively impacted them&lt;/em&gt;. We found that among these individuals (N = 2,162), the areas mostly affected by gaming-related functional impairments were school and/or work (50.69%), followed by psychological health (13.37%), and family-related functional impairments (12.26%). Conversely, the least affected area related to friends (4.67%). In sum, the most prominent gaming-related functional impairment experienced among disordered gamers was related to academic and/or professional activities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Needless to say that I have been extremely lucky to be involved in these studies and the project as a whole, so for that, I wish to thank my collaborators and ESL Gaming for the opportunity given to us to put research skills into good use so that we can develop knowledge able to help us understand the opportunities and pitfalls of gaming, to ultimately help those in need.&lt;/p&gt;
+&lt;h1 style=&#34;text-align: justify;&#34; id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;Stay tuned and follow me on &lt;strong&gt;&lt;a href=&#34;https://metalhead.club/@DrHalleyPontes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastodon&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://twitter.com/@DrHalleyPontes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;&lt;/strong&gt; for real-time updates on what&amp;rsquo;s happening next!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my new website!</title>
+      <link>http://localhost:4321/pt/post/2022-12-p1/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pt/post/2022-12-p1/</guid>
+      <description>&lt;p&gt;Welcome aboard!&lt;/p&gt;
+&lt;p&gt;I am really excited to release the new version of my website, which was developed using &lt;strong&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I hope we can keep connected and that I have enough time to keep you posted about my work.&lt;/p&gt;
+&lt;p&gt;In the meantime, I wish you all a truly awesome happy new year!&lt;/p&gt;
+&lt;p&gt;Stay tuned and follow me on &lt;strong&gt;&lt;a href=&#34;https://metalhead.club/@DrHalleyPontes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastodon&lt;/a&gt;&lt;/strong&gt; for real-time updates on what&amp;rsquo;s happening!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

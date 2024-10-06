@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PT2 | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/tags/pt2/</link>
+      <atom:link href="http://localhost:4321/tags/pt2/index.xml" rel="self" type="application/rss+xml" />
+    <description>PT2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>PT2</title>
+      <link>http://localhost:4321/tags/pt2/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of Gaming Disorder with the IGDS9-SF</title>
+      <link>http://localhost:4321/pt/post/2022-12-p2/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pt/post/2022-12-p2/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;I was pleased to see that a recent study published by Anthony and colleagues (2022) in the journal &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1037/cps0000123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clinical Psychology: Science and Practice&lt;/a&gt;&lt;/strong&gt; provided further insights on the psychometric properties and usability of the &lt;strong&gt;Internet Disorder Scale-Short Form (IDS9-SF)&lt;/strong&gt;, which was the first brief standardized assessment tool for &amp;lsquo;Internet Gaming Disorder&amp;rsquo; as defined in the DSM-5.&lt;/p&gt;
+&lt;p&gt;The IGDS9-SF was published in December 2014 in the journal &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1016/j.chb.2014.12.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computers in Human Behavior&lt;/a&gt;&lt;/strong&gt;, and after nearly a decade since its publication and numerous studies supporting its use worldwide, a new study provided further support to previous research.&lt;/p&gt;
+&lt;p&gt;Upon evaluating a set of 22 psychometric tests measuring &amp;lsquo;Internet Gaming Disorder&amp;rsquo;, Anthony and colleagues (2022) reported that:&lt;/p&gt;
+&lt;blockquote style=&#34;text-align: justify;&#34;&gt;&lt;p&gt;&lt;em&gt;Among all reviewed measures, the IGDS9-SF has been evaluated by the highest number of empirical studies (n = 26). In contrast, all other measures were evaluated by only a few studies (ns = 1–5).&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They further noted that:&lt;/p&gt;
+&lt;blockquote style=&#34;text-align: justify;&#34;&gt;&lt;p&gt;&lt;em&gt;Based on the COSMIN guideline, the IGDS9-SF demonstrates sound structural validity, internal consistency reliability, construct validity (convergent and divergent validities), test-retest reliability, and measurement invariance among gender, age groups (including three studies evaluating measurement invariance between adolescent and adult samples), and regions with moderate- to high methodological quality.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Find out more about the IGDS9-SF and available documentation &lt;strong&gt;&lt;a href=&#34;https://www.halleypontes.com/tests/ids9-sf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stay tuned and follow me on &lt;strong&gt;&lt;a href=&#34;https://metalhead.club/@DrHalleyPontes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mastodon&lt;/a&gt;&lt;/strong&gt; for real-time updates on what&amp;rsquo;s happening!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

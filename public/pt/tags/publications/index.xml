@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/pt/tags/publications/</link>
+      <atom:link href="http://localhost:4321/pt/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-pt</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>Publications</title>
+      <link>http://localhost:4321/pt/tags/publications/</link>
+    </image>
+    
+    <item>
+      <title>Behavioral Addictions</title>
+      <link>http://localhost:4321/pt/books/book-2022/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pt/books/book-2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Sobre este livro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Este livro apresenta uma perspetiva holística baseada em evidências científicas sobre aspectos
+conceptuais, clínicos, de avaliação e de tratamento das principais perturbações de dependência sem
+o uso de substâncias relacionadas com: jogo, jogo, redes sociais, smartphones, internet, amor, sexo,
+exercício, trabalho e compras. Cada capítulo centra-se numa adição comportamental única e está estruturado
+de uma forma simples para permitir ao leitor uma navegação rápida, não deixando de abordar os principais
+aspectos das respectivas adições com a profundidade necessária. Em suma, este livro oferece uma introdução
+oportuna aos conceitos-chave e aos mais recentes desenvolvimentos científicos sobre as adições comportamentais.
+Este livro destina-se aos profissionais de saúde mental, investigadores em psicologia, neurociências e
+comunicação, bem como a estudantes de licenciatura e pós-graduação.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Índice temático&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gambling Disorder (Mark D. Griffiths, Filipa Calado)&lt;/li&gt;
+&lt;li&gt;Gaming Disorder (Cuneyt Evren)&lt;/li&gt;
+&lt;li&gt;Social Media Addiction (Tayana Panova, Xavier Carbonell)&lt;/li&gt;
+&lt;li&gt;Smartphone Addiction (Dmitri Rozgonjuk, Christian Montag, Jon D. Elhai)&lt;/li&gt;
+&lt;li&gt;Internet Addiction (Halley M. Pontes, Jason Satel, Almuth McDowall)&lt;/li&gt;
+&lt;li&gt;Love Addiction (Taya Bockmann, Marsal Sanches)&lt;/li&gt;
+&lt;li&gt;Sex Addiction (Manpreet Dhuffar-Pottiwal)&lt;/li&gt;
+&lt;li&gt;Exercise Addiction (Attila Szabo, Krisztina Ábel)&lt;/li&gt;
+&lt;li&gt;Work Addiction (Paweł Andrzej Atroszko)&lt;/li&gt;
+&lt;li&gt;Shopping Addiction (Aniko Maraz, Sebastiano Costa)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Get a copy now from&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-031-04772-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Springer Store&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.co.uk/Behavioral-Addictions-Conceptual-Assessment-Approaches/dp/3031047737&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon UK Store&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/Behavioral-Addictions-Conceptual-Assessment-Neuroscience/dp/3031047710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon US Store&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+pt:
+  languageCode: pt-pt
+  contentDir: content/pt
+  title: Dr. Halley Pontes
+  params:
+   description: Dr. Halley Pontes é um psicólogo que investiga questões de saúde mental e bem-estar associadas a comportamentos aditivos, como a perturbação do jogo
+  menu:
+    main:
+      - name: Sobre mim
+        url: '#about'
+        weight: 1

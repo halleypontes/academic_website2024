@@ -1,0 +1,30 @@
+# Navigation Links (Portuguese)
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Sobre mim
+    url: /pt/
+    weight: 10
+  - name: Experiência
+    url: /pt/experience/
+    weight: 11
+  - name: Publicações
+    url: /pt/publication/
+    weight: 12
+  - name: Livros
+    url: /pt/books/
+    weight: 13
+#  - name: Projetos
+#    url: /pt/projects/
+#    weight: 14
+  - name: Testes
+    url: /pt/tests/
+    weight: 15
+  - name: Blog
+    url: /pt/post/
+    weight: 16
+  - name: Tópicos
+    url: /pt/tags
+    weight: 17

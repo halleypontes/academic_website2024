@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screen Time | Dr. Halley Pontes</title>
+    <link>http://localhost:4321/tags/screen-time/</link>
+      <atom:link href="http://localhost:4321/tags/screen-time/index.xml" rel="self" type="application/rss+xml" />
+    <description>Screen Time</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu3916292783086637300.png</url>
+      <title>Screen Time</title>
+      <link>http://localhost:4321/tags/screen-time/</link>
+    </image>
+    
+    <item>
+      <title>Critically appraising the pitfalls of screen time effects research</title>
+      <link>http://localhost:4321/publication/2020-2/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2020-2/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Existing recommendations regulating screen time use and studies investigating its effects are
+inherently problematic for two main reasons. First, they imply that screen time activities are essentially
+the same in nature regardless of what type of digital content is being consumed. This phenomenon has been
+described as monolithic screen time, which refers to an assessment approach to screen time implying that all
+screen time activities are qualitatively and psychologically equivalent. This assessment may be one of the main
+reasons leading researchers to report conflicting evidence in relation to the potential role of screen time in
+enhancing and/ or deteriorating psychological health and well-being of users. &lt;strong&gt;&lt;a href=&#34;https://doi.org/10.1177/0004867420963736&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[continued&amp;hellip;]&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
