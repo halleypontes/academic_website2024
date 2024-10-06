@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -360,6 +360,9 @@
   </url><url>
     <loc>http://localhost:4321/publication/2019/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/privacy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/pt/post/</loc>

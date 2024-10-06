@@ -37,6 +37,7 @@
       "p",
       "path",
       "polygon",
+      "pre",
       "radialgradient",
       "script",
       "section",
@@ -553,6 +554,7 @@
       "z-20"
     ],
     "ids": [
+      "collection-of-personal-data",
       "deviconLinux0",
       "deviconLinux1",
       "deviconLinux2",
@@ -577,10 +579,13 @@
       "deviconLinuxl",
       "deviconR0",
       "deviconR1",
+      "further-resources",
       "gaming-disorder",
       "heading",
       "hide-button",
+      "important-notice",
       "internet-addiction",
+      "introduction",
       "moon",
       "nav-menu",
       "nav-toggle",
@@ -602,11 +607,14 @@
       "share-link-linkedin",
       "share-link-whatsapp",
       "share-link-x",
+      "sharing-of-personal-data",
       "show-button",
       "site-header",
       "social-media-addiction",
       "sun",
-      "top"
+      "top",
+      "use-of-cookies-and-tracking",
+      "your-right-to-erasure-right-to-be-forgotten"
     ]
   }
 }
