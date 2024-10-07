@@ -50,7 +50,7 @@ sections:
           Sciences at Birkbeck, University of London (United Kingdom) as a Senior Lecturer where I teach statistics, addiction,
           and individual differences. For over ten years I have been researching emerging addictive behaviours such as gaming
           disorder, social media addiction, gambling disorder, and other online addictions.
-          I received my PhD from the Nottingham Trent University in the United Kingdom and have published numerous studies (see my 
+          I received my PhD from Nottingham Trent University in the United Kingdom and have published numerous studies (see my 
           **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** profile for a full list) in several scientific 
           journals and presented my research work at numerous international conferences. My research has been previously awarded with the 
           Durand Jacobs Award from McGill University (Canada) and the Early Career Research Award from the Australian Psychological 
