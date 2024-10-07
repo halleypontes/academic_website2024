@@ -45,8 +45,8 @@ profiles:
     url: https://orcid.org/0000-0001-8020-7623
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/in/drhalleypontes/
-#  - icon: brands/github
-#    url: https://github.com/halleypontes
+  - icon: brands/github
+    url: https://github.com/halleypontes
 
 education:
   - area: PhD Behavioural Addiction
