@@ -1,3 +1,4 @@
+github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.2/go.mod h1:0YQtVvRLCzZOpPmbVNk7WDx8t19/QfRTFO+pwyqQNk8=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240908170534-4f621dfa3a5a h1:wDXvsvFWd6uSSet48NeVw2WKdtpJ76+aXLcmYX+wfSc=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240908170534-4f621dfa3a5a/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241006005725-33edab58829a h1:8m0mpmJnVPO2QwOr52FDOj006HuB0ToQ65pphjRqY00=
