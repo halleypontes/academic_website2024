@@ -67,5 +67,5 @@ All data deletion requests will be taken seriously and complied with and your re
 ## **Further Resources**
 If you wish to learn more about the importance of exercising your digital rights, please visit the **[Electronic Frontier Foundation (EFF)](https://www.eff.org/issues/privacy)** for further information on the topic.
 
-**Effective date**: 07 October 2024
+**Effective date**: 10 October 2024
 {style="text-align: justified;"}
