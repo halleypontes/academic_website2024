@@ -1,5 +1,5 @@
 ---
-date: "2024-10-06T00:00:00+01:00"
+date: "2024-10-13T00:00:00+01:00"
 draft: false
 editable: false
 header:
@@ -19,7 +19,7 @@ This website was built with the intent to respect your digital rights and privac
 framework **[Hugo](https://gohugo.io/)**, you can easily verify the privacy settings implemented here by inspecting the
 **[GitHub repository](https://github.com/halleypontes/academic_website2024)** hosting this website.
 
-By using and/or continuing to use this website, including providing any Personal Data to me, you accept and consent to the rights, obligations,
+By using and/or continuing to use this website you accept and consent to the rights, obligations,
 and practices described in this Privacy Policy.
 
 ## **Collection of Personal Data**
