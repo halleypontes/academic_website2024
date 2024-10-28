@@ -12,7 +12,7 @@ date: "2024-10-28T00:00:00Z"
 draft: false
 featured: false
 image:
-  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/playstation-computer-console-1845880/)'
+  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/game-play-mobile-game-android-game-4740277)'
   focal_point: ""
   placement: 2
   preview_only: true
