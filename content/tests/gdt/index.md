@@ -6,7 +6,7 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2024-11-05T00:00:00Z" #Last update
 projects: []
 #subtitle: Example
 #summary: Example
@@ -58,6 +58,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Turkish :tr:](http://hdl.handle.net/20.500.12416/4617)**: Download **[here](https://osf.io/cmp96)**
   * **[Study 2](https://dusunenadamdergisi.org/article/1519)**
+
+* **[Vietnamese :vietnam:](https://doi.org/10.1186/s41155-024-00328-9)**: Download  **[here](https://osf.io/7ajxz)**
 
 {{% callout note %}}
 If you know of any other existing validation study and/or if you wish to further develop and validate the GDT in another language,
