@@ -20,9 +20,9 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    plausible: 'halleypontes.com'
+    plausible: ''
     fathom: ''
-    pirsch: ''
+    pirsch: 'JGmMkHpXSwdliZ3YUNpsonNJRMHBLOSA'
   verification:
     google: ''
     baidu: ''
