@@ -6,7 +6,7 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2024-12-16T00:00:00Z" #Last update
 projects: []
 #subtitle: Example
 #summary: Example
@@ -55,6 +55,8 @@ The IGDS9-SF has been widely used in research on disordered gaming and several c
 * **[Portuguese :portugal:](https://doi.org/10.1089/cyber.2015.0605)**: Download  **[here](https://osf.io/ec2qu)**
 
 * **[Portuguese :brazil:](https://doi.org/10.1016/j.addbeh.2019.106191)**: Download **[here](https://osf.io/egc6p)**
+
+* **[Russian :ru:](https://www.bekhterevreview.com/jour/article/view/273)**: Download **[here](https://osf.io/xm23z)**
 
 * **[Slovenian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.042)**: Download  **[here](https://osf.io/fnmw5)**
 
