@@ -28,7 +28,7 @@ sections:
         - statistic: "120+"
           description: |
             Publications
-        - statistic: "14,700+"
+        - statistic: "14,900+"
           description: |
             Citations
         - statistic: "61"
