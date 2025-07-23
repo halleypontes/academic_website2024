@@ -1,7 +1,7 @@
 ---
 title: Psychometric Tests
 date: 2024-10-05 #change date when updating this page
-lastmod: 2024-05-15
+lastmod: 2024-07-23
 pager: false
 ---
 Here you can browse and freely access a variety of psychometric tests
