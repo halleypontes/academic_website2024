@@ -76,18 +76,24 @@ education:
 
 
 work:
-  - position: Senior Lecturer in Psychology
+  - position: Reader in Behavioural Addiction
     company_name: Birkbeck, University of London
     company_url: 'https://www.bbk.ac.uk'
     company_logo: ''
     date_start: 2021-03-01
     date_end: ''
+  - position: Adjunct Senior Lecturer in Psychology
+    company_name: Charles Darwin University
+    company_url: 'https://www.cdu.edu.au'
+    company_logo: ''
+    date_start: 2025-04-01
+    date_end: ''
   - position: Adjunct Lecturer in Psychology
     company_name: University of Tasmania
     company_url: 'https://www.utas.edu.au'
     company_logo: ''
-    date_start: 2021-04-01
-    date_end: ''
+    date_start: 2021-09-01
+    date_end: 2024-07-01
   - position: Lecturer in Psychology
     company_name: University of Tasmania
     company_url: 'https://www.utas.edu.au'
