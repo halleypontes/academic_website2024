@@ -25,10 +25,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "120+"
+        - statistic: "124+"
           description: |
             Publications
-        - statistic: "15,600+"
+        - statistic: "15,700+"
           description: |
             Citations
         - statistic: "62"
@@ -47,7 +47,7 @@ sections:
       text: |-
           I am a Chartered Psychologist of the British Psychological Society (CPsychol), Member of the Australian Psychological Society
           (MAPS), and Chartered Scientist (CSci) of the Science Council. I am currently working in the School of Psychological
-          Sciences at Birkbeck, University of London (United Kingdom) as a Senior Lecturer where I teach statistics, addiction,
+          Sciences at Birkbeck, University of London (United Kingdom) as a Reader in Behavioural Addiction where I teach statistics, addiction,
           and individual differences. For over ten years I have been researching emerging addictive behaviours such as gaming
           disorder, social media addiction, gambling disorder, and other online addictions.
           I received my PhD from Nottingham Trent University in the United Kingdom and have published numerous studies (see my 
