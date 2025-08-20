@@ -2,11 +2,11 @@
 authors:
 - admin
 categories: []
-date: "2024-09-14T00:00:00Z" #Publication date
+date: "2024-09-14T00:00:00Z" #Publication date YEAR-MM-DD
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-12-16T00:00:00Z" #Last update
+lastMod: "2025-08-20T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
@@ -33,6 +33,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Chinese :cn:](https://doi.org/10.1007/s11469-019-00088-z):** Download **[here](https://osf.io/gywa7)**
     * **[Study 2](https://doi.org/10.1016/j.ajp.2023.103638)**
+
+* **[Chinese :hong_kong:](https://doi.org/10.1007/s11469-025-01524-z)**: Download **[here](https://osf.io/ef2yu)**
 
 * **[Czech :czech_republic:](https://doi.org/10.1016/j.jpsychires.2024.05.023)**: Download **[here](https://osf.io/ghuxb)**
 
