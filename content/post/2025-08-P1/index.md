@@ -25,6 +25,7 @@ tags:
 - Gaming Disorder
 - Wellness
 - Eating
+- Wellbeing
 
 title: Gaming, eating behaviours, and wellness
 ---
