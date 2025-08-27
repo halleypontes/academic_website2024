@@ -21,8 +21,8 @@ The GDT is a unidimensional tool comprising a total of 4 items measuring the cli
 originally developed in a cross-cultural study including a large sample of Chinese (47% male, mean age 19.22 years, SD = 1.57) and
 British gamers (49.4% male, mean age 26.74 years, SD = 7.88) recruited online.
 
-Although the GDT has been developed in adult samples, several studies have had success using the GDT in younger populations.
-Specifically, **[(Liang et al., 2025)](https://doi.org/10.1016/j.jpsychires.2025.05.057)** used in a sample of 201,906
+Although the GDT has been developed in adult samples, several studies had success using the GDT in younger populations.
+Specifically, **[(Liang et al., 2025)](https://doi.org/10.1016/j.jpsychires.2025.05.057)** used it in a sample of 201,906
 children and adolescents aged 6–18 years old. Furthermore, the GDT is also due to be used in the large-scale research study
 carried out by The Health Behaviour in School-aged Children (HBSC).
 
