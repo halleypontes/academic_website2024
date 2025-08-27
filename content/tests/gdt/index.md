@@ -6,18 +6,28 @@ date: "2024-09-14T00:00:00Z" #Publication date YEAR-MM-DD
 image:
   caption: ""
   focal_point: ""
-lastMod: "2025-08-20T00:00:00Z" #Last update YEAR-MM-DD
+lastMod: "2025-08-27T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, GDT]
 title: The Gaming Disorder Test (GDT)
 ---
-The GDT **[(Pontes et al., 2021)](https://doi.org/10.1007/s11469-019-00088-z)** is the first brief standardized psychometric tool to assess Gaming Disorder (GD) in light of the diagnostic criteria developed by World Health Organization in the latest beta draft revision of the _International Classification of Diseases 11th Revision_ (ICD-11).
+The GDT **[(Pontes et al., 2021)](https://doi.org/10.1007/s11469-019-00088-z)** is the first brief standardized psychometric tool
+to assess Gaming Disorder (GD) in light of the current diagnostic criteria developed by World Health Organization in the latest
+revision of the _International Classification of Diseases 11th Revision_ (ICD-11).
 
-The GDT is a unidimensional tool comprising a total of 4 items measuring the clinical criteria for GD as in the ICD-11. The GDT was originally developed in a cross-cultural study including a large sample of Chinese (47% male, mean age 19.22 years, SD = 1.57) and British gamers (49.4% male, mean age 26.74 years, SD = 7.88) recruited online.
+The GDT is a unidimensional tool comprising a total of 4 items measuring the clinical criteria for GD as in the ICD-11. The test was
+originally developed in a cross-cultural study including a large sample of Chinese (47% male, mean age 19.22 years, SD = 1.57) and
+British gamers (49.4% male, mean age 26.74 years, SD = 7.88) recruited online.
 
-The GDT has been extensively investigated at the psychometric level across several studies, with the results being satisfactory at several psychometric levels, such as:
+Although the GDT has been developed in adult samples, several studies have had success using the GDT in younger populations.
+Specifically, **[(Liang et al., 2025)](https://doi.org/10.1016/j.jpsychires.2025.05.057)** used in a sample of 201,906
+children and adolescents aged 6–18 years old. Furthermore, the GDT is also due to be used in the large-scale research study
+carried out by The Health Behaviour in School-aged Children (HBSC).
+
+Overall, the GDT has been extensively investigated at the psychometric level across several studies, with the results being satisfactory at
+several psychometric levels, such as:
 
 * Construct validity: (i) factorial validity; (ii) nomological validity, (iii) convergent validity; (iv) discriminant validity; and (v) concurrent validity. The GDT has also been shown to be reliable according to several indicators of internal consistency. The original **[study](https://doi.org/10.1007/s11469-019-00088-z)** provides further information about the validity of the scale.
 
