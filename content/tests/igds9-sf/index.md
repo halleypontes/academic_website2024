@@ -41,6 +41,8 @@ The IGDS9-SF has been widely used in research on disordered gaming and several c
 
 * **[German :de:](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/76y4g)**
 
+* **[Japanese :jp:](https://doi.org/10.3389/frcha.2025.1622000)**: Contact the **[author](mailto:tinoue@dokkyomed.ac.jp)**
+
 * **[Italian :it:](http://akademiai.com/doi/abs/10.1556/2006.5.2016.083)**: Download **[here](https://osf.io/6zjkp)**
 
 * **[Korean :kr:](https://doi.org/10.1089/cyber.2020.0227)**: Download **[here](https://osf.io/grhkt)**
