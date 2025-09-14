@@ -28,10 +28,10 @@ sections:
         - statistic: "124+"
           description: |
             Publications
-        - statistic: "15,700+"
+        - statistic: "16,000+"
           description: |
             Citations
-        - statistic: "62"
+        - statistic: "63"
           description: |
             h-index
     design:
