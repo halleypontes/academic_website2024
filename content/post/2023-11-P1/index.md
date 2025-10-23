@@ -16,13 +16,15 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2023-11-21T00:00:00Z"
+lastmod: "2025-10-23T00:00:00Z"
 projects: []
 #subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "My keynote talk at the Nacionalna Konferenca Obvladovanja Nekemičnih Zasvojenosti in Slovenia" #Pagina principal/Social
 tags:
 - Research
-- Announcements
+- Conference
+- Porto
+- Keynote
 
 title: Speaking at the conference organised by the National Mental Health Programme of Slovenia (Nacionalni program duševnega zdravja) 
 ---
