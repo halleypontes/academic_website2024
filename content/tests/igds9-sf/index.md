@@ -13,19 +13,31 @@ projects: []
 tags: [Tests, IGDS9-SF]
 title: Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)
 ---
-The IGDS9-SF **[(Pontes et al., 2015)](https://doi.org/10.1016/j.chb.2014.12.006)** was the first brief standardized psychometric tool to assess Internet Gaming Disorder (IGD) according to the nine clinical criteria developed by the American Psychiatric Association in the latest edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
+The IGDS9-SF **[(Pontes et al., 2015)](https://doi.org/10.1016/j.chb.2014.12.006)** was the first brief standardized psychometric tool to assess
+Internet Gaming Disorder (IGD) according to the nine clinical criteria developed by the American Psychiatric Association in the latest edition
+of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
 
-The IGDS9-SF is a brief unidimensional psychometric test including a total of nine items reflecting all nine criteria for IGD outlined in the DSM-5. The IGDS9-SF was originally developed in a heterogeneous sample of 1.397 English-speaking gamers (85.1% males; mean age 27 years).
+The IGDS9-SF is a brief unidimensional psychometric test including a total of nine items reflecting all nine criteria for IGD outlined in the DSM-5.
+The IGDS9-SF was originally developed in a heterogeneous sample of 1.397 English-speaking gamers (85.1% males; mean age 27 years).
 
-The IGDS9-SF had its psychometric properties extensively investigated and multiple studies have provided satisfactory results at several levels, such as:
+The IGDS9-SF had its psychometric properties extensively investigated and multiple studies have provided satisfactory results at several levels,
+such as:
 
-* Construct validity (i.e., factorial, convergent); (ii) criterion-related validity; (iii) concurrent validity, (iv) cross-cultural validity. The IGDS9-SF has also been shown to be reliable according to several indicators of internal consistency. All information about the validity of the scale can be found in the original **[study](https://doi.org/10.1016/j.chb.2014.12.006)**.
+* Construct validity (i.e., factorial, convergent); (ii) criterion-related validity; (iii) concurrent validity, (iv) cross-cultural validity.
+The IGDS9-SF has also been shown to be reliable according to several indicators of internal consistency. All information about the validity of
+the scale can be found in the original **[study](https://doi.org/10.1016/j.chb.2014.12.006)**.
 
-In terms of cut-off score for determining disordered gaming, a recent **[study published in Frontiers in Psychiatry](https://doi.org/10.3389/fpsyt.2020.00470)** using a clinical sample (N = 131) and a normative sample (N = 3,742) found that a cut-off of 32 was adequate to distinguish between disordered and non-disordered gamers.
+In terms of cut-off score for determining disordered gaming, a
+**[study published in Frontiers in Psychiatry](https://doi.org/10.3389/fpsyt.2020.00470)** using a clinical sample (N = 131) and
+a normative sample (N = 3,742) found that a cut-off of 32 was adequate to distinguish between disordered and non-disordered gamers.
 
-A recent study published in the **[Journal of Medical Internet Research](https://doi.org/10.2196/26821)** reviewing 21 studies in which the IGDS9-SF has been used across 15 languages found that the IGDS9-SF presented with adequate internal consistency, excellent criterion validity, and the ability to distinguish different subgroups with measurement invariance being supported across gender and age. In terms of factor structure, all 21 studies reviewed supported a one-factor solution for the test.
+A study published in the **[Journal of Medical Internet Research](https://doi.org/10.2196/26821)** reviewing 21 studies
+in which the IGDS9-SF has been used across 15 languages found that the IGDS9-SF presented with adequate internal consistency, excellent criterion
+validity, and the ability to distinguish different subgroups with measurement invariance being supported across gender and age. In terms of factor
+structure, all 21 studies reviewed supported a one-factor solution for the test.
 
-The IGDS9-SF has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate the test in other languages. Languages in which the test has been developed so far include:
+The IGDS9-SF has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate
+the test in other languages. Languages in which the test has been developed so far include:
 
 * **[Arabic :saudi_arabia:](https://doi.org/10.3389/fpubh.2023.1231550)**: Contact the **[author](mailto:drmogeda@gmail.com)**
 
