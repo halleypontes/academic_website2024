@@ -75,6 +75,7 @@ are necessary to consolidate the initial findings obtained in the original study
 * **[Spanish :es:](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://osf.io/ugwhe)**
 
 * **[Swedish :sweden:](https://doi.org/10.1111/sjop.13010)**: Download **[here](https://osf.io/fp36n)**
+    * **[Study 2](https://doi.org/10.1016/j.comppsych.2025.152635)**
 
 * **[Thai :thailand:](https://doi.org/10.1080/24732850.2024.2351091)**: Download  **[here](https://osf.io/vjpc8)**
 
