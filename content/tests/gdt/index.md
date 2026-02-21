@@ -49,6 +49,7 @@ The GDT can be used in time-limited research on GD and future studies using clin
 * **[Czech :czech_republic:](https://doi.org/10.1016/j.jpsychires.2024.05.023)**: Download **[here](https://osf.io/ghuxb)**
 
 * **[English :uk:](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/bz5ka)**
+    * **[Indian :uk: study](https://doi.org/10.1007/s11126-025-10214-x)**
 
 * **[German :de:](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/uk5zn)**
 
