@@ -6,12 +6,14 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, IGD-20 Test]
 title: The Internet Gaming Disorder Test (IGD-20 Test)
+aliases:
+  - /tests/igd20-test/
 ---
 The IGD-20 Test **[(Pontes et al., 2014)](https://doi.org/10.1371/journal.pone.0110137)** was the first standardized psychometric tool to assess Internet Gaming Disorder (IGD) according to the nine Internet Gaming Disorder (IGD) criteria as suggested by the American Psychiatric Association in the latest edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
 

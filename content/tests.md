@@ -18,7 +18,7 @@ If you wish to further develop and validate a test in another language, please d
 ## Gaming disorder
 - <a href="/tests/gaming-disorder-test/" target="_blank">The Gaming Disorder Test (GDT)</a>
 - <a href="/tests/internet-gaming-disorder-scale-short-form/" target="_blank">Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)</a>
-- <a href="/tests/igd20-test/" target="_blank">The Internet Gaming Disorder Test (IGD-20 Test)</a>
+- <a href="/tests/internet-gaming-disorder-test/" target="_blank">The Internet Gaming Disorder Test (IGD-20 Test)</a>
 
 ## Gambling disorder
 - <a href="/tests/gdt2/" target="_blank">Gambling Disorder Test (GDT)</a>
