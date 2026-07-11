@@ -6,7 +6,7 @@ date: "2024-09-14T00:00:00Z" #Publication date YEAR-MM-DD
 image:
   caption: ""
   focal_point: ""
-lastMod: "2025-08-27T00:00:00Z" #Last update YEAR-MM-DD
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
@@ -81,6 +81,8 @@ are necessary to consolidate the initial findings obtained in the original study
 
 * **[Turkish :tr:](http://hdl.handle.net/20.500.12416/4617)**: Download **[here](https://osf.io/cmp96)**
   * **[Study 2](https://dusunenadamdergisi.org/article/1519)**
+
+* **[Urdu :pakistan:](https://doi.org/10.1007/s44202-026-00745-0)**: Contact the **[author](mailto:acammar@uni-mainz.de)**
 
 * **[Vietnamese :vietnam:](https://doi.org/10.1186/s41155-024-00328-9)**: Download  **[here](https://osf.io/7ajxz)**
 
