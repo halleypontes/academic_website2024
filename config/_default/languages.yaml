@@ -6,15 +6,15 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+#  contentDir: content/en
   title: Dr. Halley Pontes
   params:
    description: Dr. Halley Pontes is a psychologist investigating mental health and wellbeing aspects related to addictive behaviors, such as gaming disorder
-  menu:
-    main:
-      - name: About
-        url: '#about'
-        weight: 1
+#  menu:
+#    main:
+#      - name: About
+#        url: '#about'
+#        weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 pt:
