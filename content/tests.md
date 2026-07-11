@@ -24,7 +24,7 @@ If you wish to further develop and validate a test in another language, please d
 - <a href="/tests/gambling-disorder-test/" target="_blank">Gambling Disorder Test (GDT)</a>
 
 ## Internet addiction
-- <a href="/tests/ids9-sf/" target="_blank">Internet Disorder Scale-Short Form (IDS9-SF)</a>
+- <a href="/tests/internet-disorder-scale-short-form/" target="_blank">Internet Disorder Scale-Short Form (IDS9-SF)</a>
 - <a href="/tests/internet-disorder-scale/" target="_blank">The Internet Disorder Scale (IDS-15)</a>
 
 ## Social media addiction

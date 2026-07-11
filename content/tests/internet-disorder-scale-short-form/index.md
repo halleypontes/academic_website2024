@@ -6,12 +6,14 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, IDS9-SF]
 title: Internet Disorder Scale-Short Form (IDS9-SF)
+aliases:
+  - /tests/ids9-sf/
 ---
 The IDS9-SF **[(Pontes & Griffiths, 2016)](https://doi.org/10.15805/addicta.2016.3.0102)** was developed in a study that involved the participation of 1.100 English-speaking Internet users and it is used to assess Internet addiction and its symptoms according to the nine Internet Gaming Disorder (IGD) criteria as suggested by the American Psychiatric Association in the latest edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
 
