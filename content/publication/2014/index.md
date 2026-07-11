@@ -11,7 +11,7 @@ author_notes:
 - Eötvös Loránd University, Budapest, Hungary 
 - Nottingham Trent University, Nottingham, United Kingdom
 date: "2014-10-14T00:00:00Z" #publication date
-lastmod: "2024-10-05T00:00:00Z" #page update date
+lastmod: "2026-11-07T00:00:00Z" #page update date
 doi: "10.1371/journal.pone.0110137"
 
 # Schedule page publish date (NOT publication's date).
@@ -35,6 +35,7 @@ tags:
 - Journal Articles
 - Publications
 - Gaming Disorder
+- IGD-20 Test
 
 featured: false
 
