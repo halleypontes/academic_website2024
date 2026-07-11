@@ -28,7 +28,7 @@ If you wish to further develop and validate a test in another language, please d
 - <a href="/tests/internet-disorder-scale/" target="_blank">The Internet Disorder Scale (IDS-15)</a>
 
 ## Social media addiction
-- <a href="/tests/sns-at" target="_blank">Social Networking Sites - Addiction Test (SNS-AT)</a>
+- <a href="/tests/social-networking-sites-addiction-test" target="_blank">Social Networking Sites - Addiction Test (SNS-AT)</a>
 
 ## Others & misc
 {{% callout warning %}}

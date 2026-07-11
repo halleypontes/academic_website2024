@@ -6,12 +6,14 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, SNS-AT]
 title: Social Networking Sites - Addiction Test (SNS-AT)
+aliases:
+  - /tests/sns-at/
 ---
 The Social Networking Sites - Addiction Test (SNS-AT) **[(Montag, Müller, Pontes et al., 2023)](https://doi.org/10.1186/s40359-023-01342-9)** was developed to provide a brief and convenient psychometric assessment framework for Social Media Addiction according to the widely supported _components model of addiction_ **[(Griffiths, 2005)](https://doi.org/10.1080/14659890500114359)** that includes salience, tolerance, mood modification, relapse, withdrawal, and conflict in line with current diagnostic criteria for addictive behaviors. The SNS-AT was also developed with the intent to provide a more current and revised assessment of Social Media Addiction by providing additional improvements to the wording and content of existing similar tools.
 
