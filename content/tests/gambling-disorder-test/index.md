@@ -6,12 +6,14 @@ date: 2024-05-15 #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: 2024-05-15 #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, GDT]
 title: The Gambling Disorder Test (GDT)
+aliases:
+  - /tests/gdt2/
 ---
 The Gambling Disorder Test (GDT) **[(Pontes et al., 2025)](https://doi.org/10.1037/pas0001374)** is a brief standardized
 psychometric test designed to assess Gambling Disorder (GD code: 6C50) according to the most recent WHO diagnostic
@@ -27,7 +29,6 @@ Additionally, the PGSI was developed in reference to the South Oaks Gambling Scr
 which has its own significant limitations. More specifically, the SOGS was developed based on the DSM-III and has been reported
 to produce high rates of false-positive diagnosis, overestimating the true number of affected individuals in the general
 population **[(Stinchfield, 2002)](https://psycnet.apa.org/doi/10.1016/S0306-4603(00)00158-1)**.
-
 
 To overcome these issues, the GDT was developed based on data from a large, nationally representative sample of adults
 from the United Kingdom. The overall development process ensured that the final items were directly aligned with the four core
