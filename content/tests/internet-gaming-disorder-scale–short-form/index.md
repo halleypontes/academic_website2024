@@ -6,12 +6,14 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-12-16T00:00:00Z" #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, IGDS9-SF]
 title: Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)
+aliases:
+  - /tests/igds9-sf/
 ---
 The IGDS9-SF **[(Pontes et al., 2015)](https://doi.org/10.1016/j.chb.2014.12.006)** was the first brief standardized psychometric tool to assess
 Internet Gaming Disorder (IGD) according to the nine clinical criteria developed by the American Psychiatric Association in the latest edition
