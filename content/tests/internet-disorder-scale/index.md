@@ -6,12 +6,14 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2024-10-05T00:00:00Z" #Last update
+lastMod: "2026-07-11T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
 tags: [Tests, IDS-15]
 title: The Internet Disorder Scale (IDS-15)
+aliases:
+  - /tests/ids-15/
 ---
 The IDS-15 **[(Pontes & Griffiths, 2017)](https://doi.org/10.1016/j.addbeh.2015.09.003)** was developed in a study that involved the participation of 1.105 English-speaking Internet users.
 
