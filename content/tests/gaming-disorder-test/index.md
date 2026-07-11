@@ -12,6 +12,8 @@ projects: []
 #summary: Example
 tags: [Tests, GDT]
 title: The Gaming Disorder Test (GDT)
+aliases:
+  - /gdt/
 ---
 The GDT **[(Pontes et al., 2021)](https://doi.org/10.1007/s11469-019-00088-z)** is a first brief standardized psychometric tool
 developed to assess Gaming Disorder (GD) in light of the current diagnostic criteria developed by World Health Organization in the latest
