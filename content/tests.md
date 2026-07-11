@@ -1,7 +1,7 @@
 ---
 title: Psychometric Tests
-date: 2024-10-05 #change date when updating this page
-lastmod: 2025-08-12
+date: 2026-07-11 #change date when updating this page
+lastmod: 2026-07-11
 pager: false
 ---
 Here you can browse and freely access a variety of psychometric tests
@@ -16,7 +16,7 @@ any of the tests and resources provided in my website**
 If you wish to further develop and validate a test in another language, please do get in touch with me via **[email 📧](mailto:contactme@halleypontes.com)**.
 
 ## Gaming disorder
-- <a href="/tests/gdt/" target="_blank">The Gaming Disorder Test (GDT)</a>
+- <a href="/tests/gaming-disorder-test/" target="_blank">The Gaming Disorder Test (GDT)</a>
 - <a href="/tests/igds9-sf/" target="_blank">Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)</a>
 - <a href="/tests/igd20-test/" target="_blank">The Internet Gaming Disorder Test (IGD-20 Test)</a>
 
