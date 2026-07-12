@@ -9,7 +9,7 @@ en:
 #  contentDir: content/en
   title: Dr. Halley Pontes
   params:
-   description: Dr. Halley Pontes is a psychologist investigating mental health and wellbeing aspects related to addictive behaviors, such as gaming disorder
+   description: Dr. Halley Pontes is an internationally awarded psychologist specializing in addictive behaviors such as gaming disorder and other addictions.
 #  menu:
 #    main:
 #      - name: About
@@ -22,7 +22,7 @@ pt:
   contentDir: content/pt
   title: Dr. Halley Pontes
   params:
-   description: Dr. Halley Pontes é um psicólogo que investiga questões de saúde mental e bem-estar associadas a comportamentos aditivos, como a perturbação do jogo
+   description: Dr. Halley Pontes é um psicólogo reconhecido internacionalmente, especializado em comportamentos aditivos como o perturbação do jogo e outras adições.
   menu:
     main:
       - name: Sobre mim
