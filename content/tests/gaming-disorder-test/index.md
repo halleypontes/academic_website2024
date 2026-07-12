@@ -84,7 +84,7 @@ are necessary to consolidate the initial findings obtained in the original study
 * **[Turkish :tr:](http://hdl.handle.net/20.500.12416/4617)**: Download **[here](https://osf.io/cmp96)**
   * **[Study 2](https://dusunenadamdergisi.org/article/1519)**
 
-* **[Urdu :pakistan:](https://doi.org/10.1007/s44202-026-00745-0)**: Contact the **[author](mailto:acammar@uni-mainz.de)**
+* **[Urdu :pakistan:](https://doi.org/10.1007/s44202-026-00745-0)**: Download  **[here](https://osf.io/8c5b6/files/f6rt7)**
 
 * **[Vietnamese :vietnam:](https://doi.org/10.1186/s41155-024-00328-9)**: Download  **[here](https://osf.io/7ajxz)**
 
