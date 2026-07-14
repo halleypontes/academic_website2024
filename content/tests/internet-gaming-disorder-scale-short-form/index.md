@@ -6,7 +6,7 @@ date: "2024-09-14T00:00:00Z" #Publication date
 image:
   caption: ""
   focal_point: ""
-lastMod: "2026-07-12T00:00:00Z" #Last update
+lastMod: "2026-07-14T00:00:00Z" #Last update
 projects: []
 #subtitle: Example
 #summary: Example
