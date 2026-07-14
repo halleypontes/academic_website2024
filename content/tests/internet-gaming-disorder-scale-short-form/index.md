@@ -41,7 +41,7 @@ structure, all 21 studies reviewed supported a one-factor solution for the test.
 The IGDS9-SF has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate
 the test in other languages. Languages in which the test has been developed so far include:
 
-* **[Arabic :saudi_arabia:](https://doi.org/10.3389/fpubh.2023.1231550)**: Contact the **[author](mailto:drmogeda@gmail.com)**
+* **[Arabic :saudi_arabia:](https://doi.org/10.3389/fpubh.2023.1231550)**: Download **[here](https://osf.io/8c5b6/files/hdejb)**
 * **[Study 2](https://doi.org/10.1186/s40359-026-04394-9)**
 
 * **[Bengali :bangladesh:](https://doi.org/10.1371/journal.pone.0279062)**: Download **[here](https://osf.io/8v9kb)**
