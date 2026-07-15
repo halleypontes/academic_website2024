@@ -70,7 +70,7 @@ are necessary to consolidate the initial findings obtained in the original study
 
 * **[Persian :iran:](https://doi.org/10.1186/s40359-023-01368-z)**: Contact the **[author](mailto:Amir.Pakpour@ju.se)**
 
-* **[Polish :poland:](http://http://cspsychiatr.cz/detail.php?stat=1386)**: Download **[here](https://osf.io/sy8f7)**
+* **[Polish :poland:](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://osf.io/sy8f7)**
 
 * **[Slovak :slovakia:](http://cspsychiatr.cz/detail.php?stat=1386)**: Download **[here](https://osf.io/dnvrx)**
 
