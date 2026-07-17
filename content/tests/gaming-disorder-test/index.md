@@ -81,8 +81,8 @@ are necessary to consolidate the initial findings obtained in the original study
 
 * **[Thai :thailand:](https://doi.org/10.1080/24732850.2024.2351091)**: Download  **[here](https://osf.io/vjpc8)**
 
-* **[Turkish :tr:](http://hdl.handle.net/20.500.12416/4617)**: Download **[here](https://osf.io/cmp96)**
-  * **[Study 2](https://dusunenadamdergisi.org/article/1519)**
+* **[Turkish :tr:](https://doi.org/10.5455/PCP.20200429072430)**: Download **[here](https://osf.io/cmp96)**
+  * **[Study 2](https://doi.org/10.14744/DAJPNS.2021.00149)**
 
 * **[Urdu :pakistan:](https://doi.org/10.1007/s44202-026-00745-0)**: Download  **[here](https://osf.io/8c5b6/files/f6rt7)**
 
