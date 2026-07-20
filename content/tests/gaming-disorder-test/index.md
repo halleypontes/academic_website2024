@@ -72,7 +72,7 @@ are necessary to consolidate the initial findings obtained in the original study
 
 * **[Polish :poland:](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://osf.io/sy8f7)**
 
-* **[Slovak :slovakia:](urlr.me/PjGdJr)**: Download **[here](https://osf.io/dnvrx)**
+* **[Slovak :slovakia:](https://osf.io/cjnrq/files/8esjn)**: Download **[here](https://osf.io/dnvrx)**
 
 * **[Spanish :es:](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://osf.io/ugwhe)**
 
