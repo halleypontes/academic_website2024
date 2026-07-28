@@ -7,11 +7,11 @@ author_notes:
 - University of Tasmania, Launceston, Australia
 - Nottingham Trent University, Nottingham, United Kingdom
 date: "2020-01-08T00:00:00Z" #publication date
-lastmod: "2024-10-05T00:00:00Z" #page update date
+lastmod: "2026-07-28T00:00:00Z" #page update date
 doi: "10.1016/j.addbeh.2019.106059"
 
 # Schedule page publish date (NOT publication's date).
-date: "2020-01-08T00:00:00Z"
+publishDate: "2020-01-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
