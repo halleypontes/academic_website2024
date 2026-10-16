@@ -70,7 +70,7 @@ is a good example of how research can reach audiences beyond academia.
 The document draws on scientific evidence to assess the potential risks associated with loot boxes and to inform the implementation of the new legislation.
 The inclusion of these two studies (and others from other colleagues) in this assessment demonstrates their relevance to an active public policy and regulatory discussion.
 
-#### What we did in our two studies:
+#### What we did in our two studies
 
 In our first study: **[Loot boxes in Spanish adolescents and young adults: Relationship with internet gaming disorder and online gambling disorder](https://doi.org/10.1016/j.chb.2021.107012)**,
 we investigated the prevalence of loot box purchases among young people aged 11–30 and their association with Internet Gaming Disorder (IGD) and Online Gambling Disorder (OGD). Using data from 6,633 participants,
