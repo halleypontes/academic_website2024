@@ -28,7 +28,7 @@ sections:
         - statistic: "135+"
           description: |
             Publicações
-        - statistic: "18,400+"
+        - statistic: "19,000+"
           description: |
             Citações
         - statistic: "66"
@@ -55,11 +55,13 @@ sections:
           electrónico, a dependência das redes sociais, e a perturbação do jogo de azar.
           {style="text-align: center;"}
           
-          Concluí o meu doutoramento da Nottingham Trent University no Reino Unido e publiquei mais de 100 estudos (ver o meu perfil 
-          **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** para uma lista completa) em várias revistas científicas e 
-          apresentei o meu trabalho de investigação em  várias conferências internacionais. A minha investigação recebeu o prémio Durand 
-          Jacobs Award da McGill University (Canadá) e com o Early Career Research Award da Australian Psychological Society (Austrália) 
-          pelas contribuições à  psicologia dos comportamentos aditivos e para a ciberpsicologia.
+          Concluí o meu doutoramento da Nottingham Trent University no Reino Unido e publiquei mais de 100 estudos em várias revistas científicas
+          (ver o meu perfil **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** para uma lista completa).
+          {style="text-align: center;"}
+          
+          Recentemente, fui incluído na **[Lista Mundial dos 2% Melhores Cientistas da Stanford-Elsevier de 2026](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9)**.
+          Previamente, a minha investigação também recebeu o prémio Durand Jacobs Award da McGill University (Canadá) e o Early Career Research Award da Australian Psychological
+          Society (Austrália) pelas contribuições à psicologia dos comportamentos aditivos e para a ciberpsicologia.
           {style="text-align: center;"}
 
           A minha **[Chave Pública PGP](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint é: DE26 2BED FB0D C0ED 97F7 
@@ -70,14 +72,11 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Últimos posts
+      title: Última publicação
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
+      count: 1
       filters:
         author: ""
         category: ""
@@ -86,14 +85,14 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      archive:
+        enable: true
+        text: Ver todas
+        link: /pt/post/
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
+      view: list
       spacing:
         padding: [0, 0, 0, 0]
 ---
