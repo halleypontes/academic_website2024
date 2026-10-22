@@ -25,6 +25,9 @@ main:
   - name: Blog
     url: /pt/post/
     weight: 16
+  - name: Subscrever (RSS)
+    url: /post/index.xml
+    weight: 17
   - name: Tópicos
     url: /pt/tags
-    weight: 17
+    weight: 18

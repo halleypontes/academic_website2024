@@ -4,5 +4,6 @@ view: article-grid
 ---
 
 {{% callout warning %}}
-**Em construção. [Regressar](http://www.halleypontes.com/pt).**
+**Em construção, [regressar](https://www.halleypontes.com/pt/)**\
+**Aceder posts em [Inglês](https://www.halleypontes.com/post/)**
 {{% /callout %}}
