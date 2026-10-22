@@ -35,6 +35,8 @@ If you wish to further develop and validate a test in another language, please d
 **This section still under construction**
 {{% /callout %}}
 
+- [Burnout Syndrome Test (BST)](https://stephanietowch.com/tests/burnout-syndrome-test/)
+<!-- see: https://doi.org/10.3389/fpsyt.2021.642634 -->
 - [Game Transfer Phenomena Scale (GTPS)](https://doi.org/10.1089/cyber.2015.0221)
 <!-- see: https://doi.org/10.1089/cyber.2015.0221 -->
 - [Smartphone Distraction Scale (SDS)](https://doi.org/10.3389/fpsyt.2021.642634)
