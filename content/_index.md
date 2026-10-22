@@ -45,8 +45,8 @@ sections:
 #      title: 'Welcome'
       subtitle: ''
       text: |-
-          I am a Chartered Psychologist of the British Psychological Society (CPsychol), Member of the Australian Psychological Society
-          (MAPS), and Chartered Scientist (CSci) of the Science Council. I am currently working in the School of Psychological
+          I am a Chartered Psychologist with the British Psychological Society (CPsychol), Member of the Australian Psychological Society
+          (MAPS), and Chartered Scientist (CSci) with the Science Council. I am currently working in the School of Psychological
           Sciences at Birkbeck, University of London (United Kingdom) as a Reader in Behavioural Addiction where I teach addiction, individual differences,
           and statistics. For over ten years I have been researching emerging addictive behaviours such as gaming disorder, social media addiction, gambling disorder,
           and other online addictions.
@@ -56,9 +56,9 @@ sections:
           journals (see my **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes)** profile for a full list).
           {style="text-align: center;"}
           
-          Recently, I was featured in the **[2026 Stanford-Elsevier's World's Top 2% Scientists List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9)**.
-          I was also previously awarded with the Durand Jacobs Award from McGill University (Canada) and the Early Career Research Award from the Australian Psychological 
-          Society (Australia) for my contributions to the psychology of addictive behaviors and cyberpsychology.
+          Recently, I was featured in the **[2026 Stanford-Elsevier World's Top 2% Scientists List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9)**.
+          I was also awarded the Durand Jacobs Award from McGill University (Canada) and the Early Career Research Award from the Australian Psychological 
+          Society (Australia) for my contributions to the psychology of addictive behaviours and cyberpsychology.
           {style="text-align: center;"}
   
           My email **[PGP Public Key](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint is: DE26 2BED FB0D C0ED 97F7 
