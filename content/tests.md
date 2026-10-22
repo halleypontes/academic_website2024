@@ -14,8 +14,6 @@ Fuel my own addiction and **[buy me a coffee ☕](https://ko-fi.com/psychometric
 any of the tests and resources provided in my website**
 {{% /callout %}}
 
-If you wish to further develop and validate a test in another language, please do get in touch with me via **[email 📧](mailto:contactme@halleypontes.com)**.
-
 ## Gaming disorder
 - <a href="/tests/gaming-disorder-test/" target="_blank">The Gaming Disorder Test (GDT)</a>
 - <a href="/tests/internet-gaming-disorder-scale-short-form/" target="_blank">Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)</a>
