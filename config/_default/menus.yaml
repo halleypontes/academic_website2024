@@ -25,6 +25,9 @@ main:
   - name: Blog
     url: post/
     weight: 16
+  - name: Subscribe (RSS)
+    url: /post/index.xml
+    weight: 17
   - name: Topics
     url: /tags
-    weight: 17
+    weight: 18
