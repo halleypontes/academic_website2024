@@ -5,8 +5,9 @@ lastmod: "2026-10-22T00:00:00Z" #Last update
 pager: false
 ---
 Here you can browse and freely access a variety of psychometric tests
-I have developed over the years. I recommend that you first consult the original publication
-for the test of interest.
+I have developed over the years.
+
+Fuel my own addiction and **[buy me a coffee ☕](https://ko-fi.com/psychometrictests)**.
 
 {{% callout note %}}
 **Please note that you do not need to contact me to ask for permission to use
