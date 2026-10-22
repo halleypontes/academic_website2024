@@ -16,14 +16,14 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2024-10-18T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 #subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "In this blog, I discuss our new study investigating the relationship between work addiction and burnout" #Pagina principal/Social
 tags:
 - Research
 - Work Addiction
-- Announcements
+- Research Digest
 
 title: Understanding the link between work addiction and burnout
 ---

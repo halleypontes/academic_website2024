@@ -16,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2026-10-16T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 #subtitle: ""
 summary: "How my research on loot boxes and young people is contributing to the evidence base for digital child protection in Brazil"
@@ -27,6 +27,7 @@ tags:
 - Loot box
 - Policy
 - Microtransactions
+- Research Digest
 
 title: From research on gaming and gambling to loot box government policy
 ---

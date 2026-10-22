@@ -16,16 +16,15 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2025-08-22T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 #subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "Today I consider how the relationship between gaming disorder and eating behaviour may be affected by wellness" #Pagina principal/Social
 tags:
 - Research
 - Gaming Disorder
-- Wellness
 - Eating
-- Wellbeing
+- Research Digest
 
 title: Gaming, eating behaviours, and wellness
 ---

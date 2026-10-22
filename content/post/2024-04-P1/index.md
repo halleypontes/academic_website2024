@@ -16,15 +16,15 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2024-04-06T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 #subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "In this blog post, I discuss the findings of two studies we published looking at the intersection between Gaming Disorder and functional impairments"
 #Pagina principal/Social
 tags:
 - Research
-- Announcements
 - Gaming Disorder
+- Research Digest
 
 title: Understanding professional gaming, gaming disorder, and functional impairments
 

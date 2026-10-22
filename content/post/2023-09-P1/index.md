@@ -16,13 +16,14 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2023-09-21T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "We are soon launching our second independent research project in partnership with ESL Gaming" #Pagina principal/Social
 tags:
 - Research
 - Announcements
+- Gaming
 
 title: Our second gaming research project and social responsibility campaign will soon be launched!
 ---

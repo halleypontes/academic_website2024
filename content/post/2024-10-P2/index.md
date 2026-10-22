@@ -16,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2024-10-28T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 #subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "In this blog, I discuss our new study investigating the relationship between work addiction and burnout" #Pagina principal/Social
@@ -25,6 +25,7 @@ tags:
 - Gaming Disorder
 - GDT
 - IGDS9-SF
+- Research Digest
 
 title: Assessing Internet Gaming Disorder - insights from our latest research
 ---

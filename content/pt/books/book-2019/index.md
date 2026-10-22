@@ -13,7 +13,7 @@ doi: "10.1027/00501-000"
 publishDate: "2024-06-01T00:00:00Z"
 
 # Last updated date.
-lastmod: "2024-10-05T00:00:00Z"  # Update this to the actual last modified date
+lastmod: "2026-10-22T00:00:00Z"  # Update this to the actual last modified date
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,7 +32,7 @@ summary: Não tem a certeza do que é a dependência da Internet e se o seu clie
 tags:
 - Livros
 - Investigação
-- Publicações
+
 featured: false
 
 # links:

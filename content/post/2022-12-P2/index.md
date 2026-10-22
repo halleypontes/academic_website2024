@@ -15,13 +15,17 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2022-12-29T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 subtitle: "Discussing the latest evidence behind the IGDS9-SF" #Inside post
 summary: "This blog discusses new evidence supporting the use of the Internet Disorder Scale-Short Form (IDS9-SF) in Gaming Disorder research" #Pagina principal/Social
 tags:
 - Research
 - IGDS9-SF
+- Gaming
+- Assessment
+- Research Digest
+
 title: Assessment of Gaming Disorder with the IGDS9-SF
 ---
 Hello everyone,
