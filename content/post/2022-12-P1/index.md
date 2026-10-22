@@ -14,12 +14,13 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2022-12-29T00:00:00Z"
+lastmod: "2026-10-22T00:00:00Z"
 projects: []
 subtitle: "Hello everyone \U0001F44B" #Inside post
 summary: "New year, new website made in R!" #Pagina principal
 tags:
 - Personal
+- Announcements
 #- 开源
 title: Welcome to my new website!
 ---
