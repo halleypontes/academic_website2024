@@ -28,6 +28,6 @@ main:
   - name: Topics
     url: /tags
     weight: 17
-  - name: Buy me a coffee ☕
+  - name: Support
     url: https://ko-fi.com/psychometrictests
     weight: 18
