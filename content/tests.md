@@ -7,8 +7,6 @@ pager: false
 Here you can browse and freely access a variety of psychometric tests
 I have developed over the years.
 
-Fuel my own addiction and **[buy me a coffee ☕](https://ko-fi.com/psychometrictests)**.
-
 {{% callout note %}}
 **Please note that you do not need to contact me to ask for permission to use
 any of the tests and resources provided in my website**

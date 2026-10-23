@@ -16,18 +16,15 @@ main:
   - name: Livros
     url: /pt/books/
     weight: 13
-#  - name: Projetos
-#    url: /pt/projects/
-#    weight: 14
   - name: Testes
     url: /pt/tests/
     weight: 15
   - name: Blog
     url: /pt/post/
     weight: 16
-  - name: Subscrever (RSS)
-    url: /pt/post/index.xml
-    weight: 17
   - name: Tópicos
     url: /pt/tags
+    weight: 17
+  - name: Oferece-me um café ☕
+    url: https://ko-fi.com/psychometrictests
     weight: 18
